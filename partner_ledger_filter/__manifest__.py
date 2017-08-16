@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Ledger Filters with analytics accounts',
+    'name': 'Analytics account filter on Financial Ledger',
     'version': '1.0',
     'category': 'Accounting',
     'author':'itech resources',
     'website': 'http://itechresources.net/',
-    'summary': 'Filter on accounts Reports ,Partner, General and Financial Ledger by partner, accounts and anlytics accounts',
+    'summary': 'Filter on Financial Ledger by anlytics accounts',
     'depends': ['account'],
     'data': [
         'views/account_report_partner_ledger_view.xml',
