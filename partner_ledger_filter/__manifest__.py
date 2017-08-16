@@ -14,7 +14,7 @@
     ],
     'demo':[
         ],
-    'price':20.00,
+    'price':35.00,
     'currency':'EUR',
     'installable': True,
     
