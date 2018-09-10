@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Analytics account filter on Financial Ledger',
+    'name': 'Analytic Account Filter on Ledger Report',
     'version': '1.0',
     'category': 'Accounting',
     'author':'itech resources',
