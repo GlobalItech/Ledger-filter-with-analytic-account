@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Analytic Account Filter on Financial Reports',
+    'name': 'Analytic Account Filter on Financial Reports(Community Edition)',
     'version': '1.0',
     'category': 'Accounting',
     'author':'itech resources',
